@@ -6,6 +6,5 @@
 
 | Command | Description |
 | --- | --- |
-
 | Ahoj | github |
 
