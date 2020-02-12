@@ -1,0 +1,1 @@
+-intstyle "ise" -incremental -o "/home/lab661/Documents/libor-matejek/Digital-eletronics1/Labs/02-ise/comparator/testb_isim_beh.exe" -prj "/home/lab661/Documents/libor-matejek/Digital-eletronics1/Labs/02-ise/comparator/testb_beh.prj" "work.testb" 
