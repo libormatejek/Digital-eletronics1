@@ -56,3 +56,6 @@
    | d | 1101 | 1 | 0 | 0 | 0 | 0 | 1 | 0 |
    | E | 1110 | 0 | 1 | 1 | 0 | 0 | 0 | 0 |
    | F | 1111 | 0 | 1 | 1 | 1 | 0 | 0 | 0 |
+   
+   ![alt text](https://www.nutsvolts.com/uploads/wygwam/NV_0501_Marston_Figure02.jpg "Logo Title Text 1")
+   
