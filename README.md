@@ -7,6 +7,7 @@
 | Command | Description |
 | --- | --- |
 | Ahoj | github |
+# Připrava 1
 
  | **A** | **B** | **A>B** | **A=B** | **A<B** |
  | :-: | :-: | :-: | :-: | :-: |
@@ -35,7 +36,7 @@
    ![equation](https://latex.codecogs.com/gif.latex?y_%7BA%3CB%7D%5E%7BPoS%2Cmin%7D%20%3D)
     
    &nbsp;
-   
+   # Připrava 2
    
    | **Digit** | **Input** | **a** | **b** | **c** | **d** | **e** | **f** | **g** |
    | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
