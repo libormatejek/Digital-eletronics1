@@ -1,0 +1,15 @@
+V3 7
+FL /home/lab661/Documents/libor-matejek/Digital-eletronics1/Labs/03-segment/hex_to_segment/hex_to_7seg.vhd 2020/02/19.13:23:39 P.20131013
+EN work/hex_to_7seg 1582119054 \
+      FL /home/lab661/Documents/libor-matejek/Digital-eletronics1/Labs/03-segment/hex_to_segment/hex_to_7seg.vhd \
+      PB ieee/std_logic_1164 1381692176
+AR work/hex_to_7seg/Behavioral 1582119055 \
+      FL /home/lab661/Documents/libor-matejek/Digital-eletronics1/Labs/03-segment/hex_to_segment/hex_to_7seg.vhd \
+      EN work/hex_to_7seg 1582119054
+FL /home/lab661/Documents/libor-matejek/Digital-eletronics1/Labs/03-segment/hex_to_segment/top.vhd 2020/02/19.14:30:50 P.20131013
+EN work/top 1582119056 \
+      FL /home/lab661/Documents/libor-matejek/Digital-eletronics1/Labs/03-segment/hex_to_segment/top.vhd \
+      PB ieee/std_logic_1164 1381692176
+AR work/top/Behavioral 1582119057 \
+      FL /home/lab661/Documents/libor-matejek/Digital-eletronics1/Labs/03-segment/hex_to_segment/top.vhd \
+      EN work/top 1582119056 CP work/hex_to_7seg
