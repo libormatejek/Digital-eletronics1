@@ -59,3 +59,35 @@
    
    ![alt text](https://www.nutsvolts.com/uploads/wygwam/NV_0501_Marston_Figure02.jpg "Logo Title Text 1")
    
+   
+   # Připrava 3
+   
+   
+   | **B** | **A** | **Carry** | **Sum** |
+   | :-: | :-: | :-: | :-: |
+   | 0 | 0 | 0 | 0 |
+   | 0 | 1 | 0 | 1 |
+   | 1 | 0 | 0 | 1 |
+   | 1 | 1 | 1 | 0 |
+    
+    
+   ![alt text](https://circuitglobe.com/wp-content/uploads/2015/12/HALF-ADDER-FULL-ADDER-FIG-1-compressor.jpg "Logo Title Text 1")
+    
+    
+   | **Cin** | **B** | **A** | **Cout** | **Sum** |
+   | :-: | :-: | :-: | :-: | :-: |
+   | 0 | 0 | 0 | 0 | 0 |
+   | 0 | 0 | 1 | 0 | 1 |
+   | 0 | 1 | 0 | 0 | 1 |
+   | 0 | 1 | 1 | 1 | 0 |
+   | 1 | 0 | 0 | 0 | 1 |
+   | 1 | 0 | 1 | 1 | 0 |
+   | 1 | 1 | 0 | 1 | 0 |
+   | 1 | 1 | 1 | 1 | 1 |
+   
+  
+   ![alt text]( https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Full_Adder_Modules.svg/1920px-Full_Adder_Modules.svg.png "Logo Title Text 1")
+   
+   
+   
+   
