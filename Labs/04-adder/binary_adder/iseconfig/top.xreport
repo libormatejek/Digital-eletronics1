@@ -1,12 +1,12 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <report-views version="2.0" >
  <header>
-  <DateModified>2020-02-13T08:16:00</DateModified>
+  <DateModified>2020-02-26T14:45:07</DateModified>
   <ModuleName>top</ModuleName>
-  <SummaryTimeStamp>2020-02-12T13:46:55</SummaryTimeStamp>
-  <SavedFilePath>/home/lab661/Documents/libor-matejek/Digital-eletronics1/Labs/02-ise/comparator/iseconfig/top.xreport</SavedFilePath>
-  <ImplementationReportsDirectory>/home/lab661/Documents/libor-matejek/Digital-eletronics1/Labs/02-ise/comparator/</ImplementationReportsDirectory>
-  <DateInitialized>2020-02-12T13:12:19</DateInitialized>
+  <SummaryTimeStamp>2020-02-26T14:43:49</SummaryTimeStamp>
+  <SavedFilePath>/home/lab661/Documents/libor-matejek/Digital-eletronics1/Labs/04-adder/binary_adder/iseconfig/top.xreport</SavedFilePath>
+  <ImplementationReportsDirectory>/home/lab661/Documents/libor-matejek/Digital-eletronics1/Labs/04-adder/binary_adder</ImplementationReportsDirectory>
+  <DateInitialized>2020-02-26T14:45:03</DateInitialized>
   <EnableMessageFiltering>false</EnableMessageFiltering>
  </header>
  <body>

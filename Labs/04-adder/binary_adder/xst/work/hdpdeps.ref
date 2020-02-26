@@ -1,0 +1,13 @@
+V3 9
+EN work/full_adder 0 \
+      FL /home/lab661/Documents/libor-matejek/Digital-eletronics1/Labs/04-adder/binary_adder/full_adder.vhd \
+      PB ieee/std_logic_1164 1381692176
+AR work/full_adder/Behavioral 0 \
+      FL /home/lab661/Documents/libor-matejek/Digital-eletronics1/Labs/04-adder/binary_adder/full_adder.vhd \
+      EN work/full_adder 0 CP work/half_adder
+EN work/top 0 \
+      FL /home/lab661/Documents/libor-matejek/Digital-eletronics1/Labs/04-adder/binary_adder/top.vhd \
+      PB ieee/std_logic_1164 1381692176
+AR work/top/Behavioral 0 \
+      FL /home/lab661/Documents/libor-matejek/Digital-eletronics1/Labs/04-adder/binary_adder/top.vhd \
+      EN work/top 0 CP work/full_adder CP work/hex_to_7seg
