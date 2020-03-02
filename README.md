@@ -87,7 +87,13 @@
    
   
    ![alt text]( https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Full_Adder_Modules.svg/1920px-Full_Adder_Modules.svg.png "Logo Title Text 1")
+      
+   # Připrava 4
    
-   
-   
+   | **Time** | **Number of periods** | **Number of periods in binary** | **Number of periods in hexa** |
+   | :-: | :-: | :-: | :-: |
+   | 10&nbsp;ms | 100 | 1100100  | 64 |
+   | 250&nbsp;ms | 2500 | 100111000100 | 9C4 |
+   | 500&nbsp;ms | 5000 | 0001001110001000 | 1388 |
+   | 1&nbsp;sec | 10000 | 0010011100010000 | 2710 |
    
