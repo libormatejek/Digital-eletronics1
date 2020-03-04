@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- IMPORTANT: This is an internal file that has been generated
+     by the Xilinx ISE software.  Any direct editing or
+     changes made to this file may result in unpredictable
+     behavior or data corruption.  It is strongly advised that
+     users do not edit the contents of this file. -->
+<messages>
+<msg type="warning" file="Cpld" num="0" delta="new" >Unable to retrieve the path to the iSE Project Repository. Will use the default filename of &apos;<arg fmt="%s" index="1">top.ise</arg>&apos;.
+</msg>
+
+<msg type="error" file="Cpld" num="832" delta="new" >&apos;<arg fmt="%s" index="1">disp_seg_o&lt;2&gt;</arg>&apos; is assigned to an invalid location (&apos;<arg fmt="%s" index="2">P57</arg>&apos;) for this device.  This will prevent the design from fitting on the current device. &apos;<arg fmt="%s" index="3">disp_seg_o&lt;2&gt;</arg>&apos; must be reassigned before attempting a re-fit.
+</msg>
+
+<msg type="error" file="Cpld" num="832" delta="new" >&apos;<arg fmt="%s" index="1">LD0</arg>&apos; is assigned to an invalid location (&apos;<arg fmt="%s" index="2">P69</arg>&apos;) for this device.  This will prevent the design from fitting on the current device. &apos;<arg fmt="%s" index="3">LD0</arg>&apos; must be reassigned before attempting a re-fit.
+</msg>
+
+<msg type="error" file="Cpld" num="832" delta="new" >&apos;<arg fmt="%s" index="1">disp_dig_o&lt;0&gt;</arg>&apos; is assigned to an invalid location (&apos;<arg fmt="%s" index="2">P126</arg>&apos;) for this device.  This will prevent the design from fitting on the current device. &apos;<arg fmt="%s" index="3">disp_dig_o&lt;0&gt;</arg>&apos; must be reassigned before attempting a re-fit.
+</msg>
+
+<msg type="error" file="Cpld" num="832" delta="new" >&apos;<arg fmt="%s" index="1">disp_dig_o&lt;3&gt;</arg>&apos; is assigned to an invalid location (&apos;<arg fmt="%s" index="2">P130</arg>&apos;) for this device.  This will prevent the design from fitting on the current device. &apos;<arg fmt="%s" index="3">disp_dig_o&lt;3&gt;</arg>&apos; must be reassigned before attempting a re-fit.
+</msg>
+
+<msg type="error" file="Cpld" num="832" delta="new" >&apos;<arg fmt="%s" index="1">disp_dig_o&lt;2&gt;</arg>&apos; is assigned to an invalid location (&apos;<arg fmt="%s" index="2">P129</arg>&apos;) for this device.  This will prevent the design from fitting on the current device. &apos;<arg fmt="%s" index="3">disp_dig_o&lt;2&gt;</arg>&apos; must be reassigned before attempting a re-fit.
+</msg>
+
+<msg type="error" file="Cpld" num="832" delta="new" >&apos;<arg fmt="%s" index="1">disp_dig_o&lt;1&gt;</arg>&apos; is assigned to an invalid location (&apos;<arg fmt="%s" index="2">P128</arg>&apos;) for this device.  This will prevent the design from fitting on the current device. &apos;<arg fmt="%s" index="3">disp_dig_o&lt;1&gt;</arg>&apos; must be reassigned before attempting a re-fit.
+</msg>
+
+<msg type="error" file="Cpld" num="832" delta="new" >&apos;<arg fmt="%s" index="1">clk_i</arg>&apos; is assigned to an invalid location (&apos;<arg fmt="%s" index="2">P38</arg>&apos;) for this device.  This will prevent the design from fitting on the current device. &apos;<arg fmt="%s" index="3">clk_i</arg>&apos; must be reassigned before attempting a re-fit.
+</msg>
+
+<msg type="error" file="Cpld" num="832" delta="new" >&apos;<arg fmt="%s" index="1">BTN0</arg>&apos; is assigned to an invalid location (&apos;<arg fmt="%s" index="2">P143</arg>&apos;) for this device.  This will prevent the design from fitting on the current device. &apos;<arg fmt="%s" index="3">BTN0</arg>&apos; must be reassigned before attempting a re-fit.
+</msg>
+
+<msg type="error" file="Cpld" num="868" delta="new" >Cannot fit the design into any of the specified devices with the selected implementation options.
+</msg>
+
+</messages>
+
