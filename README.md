@@ -97,3 +97,8 @@
    | 500&nbsp;ms | 5000 | 0001001110001000 | 1388 |
    | 1&nbsp;sec | 10000 | 0010011100010000 | 2710 |
    
+   # Připrava 5
+   &nbsp;
+    ![segment_timing](wavedrom.png)
+    &nbsp;
+   
