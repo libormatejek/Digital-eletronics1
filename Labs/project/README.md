@@ -33,9 +33,8 @@ Automat se znovu přepíná do stavu 1 a vše se opakuje. V tomto stavu se souč
 konstatní podmínky v průběhu odesíláni jednoho rámce. 
  
 
-
-
 ## References
-#Počítačová cvičení 1-8
+Počítačová cvičení 1-8
+
 https://en.wikipedia.org/wiki/Universal_asynchronous_receiver-transmitter
 https://www.youtube.com/watch?v=sTHckUyxwp8
