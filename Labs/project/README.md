@@ -32,6 +32,9 @@ vyšle se start bit a automat přejde do stavu 2. Ve stavu 2 se vysílají postu
 Automat se znovu přepíná do stavu 1 a vše se opakuje. V tomto stavu se současně testuje stav BTN0. Veškeré změny konfigurace nebo datových bitů se načtou pouze ve stavu 1, čímž jsou zajištěny
 konstatní podmínky v průběhu odesíláni jednoho rámce. 
  
+## Simulation
+![alt text](https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/UART_Frame.svg/1280px-UART_Frame.svg.png "Logo Title Text 1")
+
 
 ## References
 Počítačová cvičení 1-8
