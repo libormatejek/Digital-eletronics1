@@ -13,7 +13,7 @@ V dnešní době je UART masivně nahrazován technologii USB, ale u zařízení
 se s ním stále můžeme setkat. 
 
 Nejdůležitější vlastností UART je struktura jeho vysílaného rámce, na které je postaven celý kód. 
-![alt text](https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/UART_timing_diagram.svg/1920px-UART_timing_diagram.svg.png "Logo Title Text 1")
+![alt text](https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/UART_Frame.svg/1280px-UART_Frame.svg.png "Logo Title Text 1")
 
 
 
