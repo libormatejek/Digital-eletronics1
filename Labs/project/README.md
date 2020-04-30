@@ -38,7 +38,7 @@ konstatní podmínky v průběhu odesíláni jednoho rámce.
  
  počet datových bitů - 0 (7 bitu) 
  
- boudrate - 1 (clk_i)
+ baud rate - 1 (clk_i)
  
  transmitdata - 1 (vysílání)
  
