@@ -36,6 +36,6 @@ konstatní podmínky v průběhu odesíláni jednoho rámce.
 
 
 ## References
-Počítačová cvičení 1-8 /br
+#Počítačová cvičení 1-8
 https://en.wikipedia.org/wiki/Universal_asynchronous_receiver-transmitter
 https://www.youtube.com/watch?v=sTHckUyxwp8
