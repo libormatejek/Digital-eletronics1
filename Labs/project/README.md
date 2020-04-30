@@ -37,6 +37,11 @@ konstatní podmínky v průběhu odesíláni jednoho rámce.
 
 
 ## References
+top module -
+trasmitter module-
+test transmitter-
+
+
 Počítačová cvičení 1-8
 
 https://en.wikipedia.org/wiki/Universal_asynchronous_receiver-transmitter
