@@ -34,8 +34,12 @@ konstatní podmínky v průběhu odesíláni jednoho rámce.
  
 ## Simulation
 ![alt text](https://github.com/libormatejek/Digital-eletronics1/blob/master/Labs/project/simulation/sim1.png "Logo Title Text 1")
-
-
+ Nastavení pří simulaci : 
+ počet datových bitů - 0 (7 bitu) 
+ boudrate - 1 (clk_i)
+ transmitdata - 1 (vysílání)
+ datové slovo - [00011111]
+ 
 ## References
 top module - https://github.com/libormatejek/Digital-eletronics1/blob/master/Labs/project/UART_matejek/top.vhd
 
