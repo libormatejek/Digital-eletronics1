@@ -33,7 +33,7 @@ Automat se znovu přepíná do stavu 1 a vše se opakuje. V tomto stavu se souč
 konstatní podmínky v průběhu odesíláni jednoho rámce. 
  
 ## Simulation
-![alt text](https://github.com/libormatejek/Digital-eletronics1/blob/master/Labs/project/simulation/sim1.png"Logo Title Text 1")
+![alt text](https://github.com/libormatejek/Digital-eletronics1/blob/master/Labs/project/simulation/sim1.png "Logo Title Text 1")
 
 
 ## References
