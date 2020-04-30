@@ -37,9 +37,9 @@ konstatní podmínky v průběhu odesíláni jednoho rámce.
 
 
 ## References
-top module -
-trasmitter module-
-test transmitter-
+top module - https://github.com/libormatejek/Digital-eletronics1/blob/master/Labs/project/UART_matejek/top.vhd
+trasmitter module- https://github.com/libormatejek/Digital-eletronics1/blob/master/Labs/project/UART_matejek/transmitter.vhd
+test transmitter- https://github.com/libormatejek/Digital-eletronics1/blob/master/Labs/project/UART_matejek/testTransmit.vhd
 
 
 Počítačová cvičení 1-8
