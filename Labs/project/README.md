@@ -2,7 +2,7 @@
 
 #### Objectives
 
-Cílem této práce je zrealizovat UART( Univerzální asynchronní přijimáč-vysílač) pomocí VHDL struktury a navrhnout
+Cílem této práce je realizace UART( Univerzální asynchronní přijimáč-vysílač) pomocí VHDL struktury a navrhnout
 implementaci do hardwarových komponent.
 V práci se věnuji pouze vysílači. Pro reálné použití by bylo nezbytné doplnit přijímač.
 
